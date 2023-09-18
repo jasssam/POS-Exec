@@ -1,0 +1,49 @@
+2023-09-18 01:00:16 [INFO]: Created directory: Database
+NoneType: None
+2023-09-18 01:00:16 [INFO]: Created table: paid
+NoneType: None
+2023-09-18 01:00:16 [INFO]: Created table: dev
+NoneType: None
+2023-09-18 01:00:16 [INFO]: Created table: positions
+NoneType: None
+2023-09-18 01:00:17 [INFO]: Created table: employees
+NoneType: None
+2023-09-18 01:00:17 [INFO]: Created table: orders
+NoneType: None
+2023-09-18 01:00:17 [INFO]: Created table: order_details
+NoneType: None
+2023-09-18 01:00:17 [INFO]: Created table: login_history
+NoneType: None
+2023-09-18 01:00:17 [INFO]: Created table: items
+NoneType: None
+2023-09-18 01:00:17 [INFO]: Created table: categories
+NoneType: None
+2023-09-18 01:00:17 [INFO]: Created table: price_history
+NoneType: None
+2023-09-18 01:00:18 [INFO]: Created table: reports
+NoneType: None
+2023-09-18 01:00:18 [INFO]: Created table: breakdowns
+NoneType: None
+2023-09-18 01:00:18 [INFO]: Created folder, database, and tables.
+NoneType: None
+2023-09-18 01:00:18 [INFO]: Inserted data into table: paid
+NoneType: None
+2023-09-18 01:00:18 [INFO]: Inserted data into table: dev
+NoneType: None
+2023-09-18 01:00:18 [INFO]: Inserted data into table: positions
+NoneType: None
+2023-09-18 01:00:18 [INFO]: Inserted data into table: positions
+NoneType: None
+2023-09-18 01:00:18 [INFO]: Inserted data into table: positions
+NoneType: None
+2023-09-18 01:00:18 [INFO]: Inserted data into table: employees
+NoneType: None
+2023-09-18 01:00:19 [INFO]: Inserted data into table: categories
+NoneType: None
+2023-09-18 01:00:19 [INFO]: Inserted data into table: items
+NoneType: None
+2023-09-18 01:00:19 [INFO]: Inserted initial data.
+NoneType: None
+2023-09-18 01:00:27 [INFO]: Successful Login Attempt: Administrator
+2023-09-18 01:00:50 [INFO]: Exit program.
+2023-09-18 01:00:50 [CRITICAL]: Program closed
