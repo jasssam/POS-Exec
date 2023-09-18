@@ -1,3 +1,6 @@
+You can log in using (for 1 week):
+- admin | adminpass
+
 Download zip file
 
 ![image](https://github.com/jasssam/POS-Exec/assets/112601706/b35480b8-0cf0-4f6a-a699-2ad3fc53c718)
