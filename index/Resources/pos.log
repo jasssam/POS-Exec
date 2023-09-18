@@ -1,49 +1,412 @@
-2023-09-18 01:00:16 [INFO]: Created directory: Database
+2023-09-12 22:59:09 [INFO]: Created table: paid
 NoneType: None
-2023-09-18 01:00:16 [INFO]: Created table: paid
+2023-09-12 22:59:09 [INFO]: Created table: dev
 NoneType: None
-2023-09-18 01:00:16 [INFO]: Created table: dev
+2023-09-12 22:59:10 [INFO]: Created table: positions
 NoneType: None
-2023-09-18 01:00:16 [INFO]: Created table: positions
+2023-09-12 22:59:10 [INFO]: Created table: employees
 NoneType: None
-2023-09-18 01:00:17 [INFO]: Created table: employees
+2023-09-12 22:59:10 [INFO]: Created table: orders
 NoneType: None
-2023-09-18 01:00:17 [INFO]: Created table: orders
+2023-09-12 22:59:10 [INFO]: Created table: order_details
 NoneType: None
-2023-09-18 01:00:17 [INFO]: Created table: order_details
+2023-09-12 22:59:10 [INFO]: Created table: login_history
 NoneType: None
-2023-09-18 01:00:17 [INFO]: Created table: login_history
+2023-09-12 22:59:10 [INFO]: Created table: items
 NoneType: None
-2023-09-18 01:00:17 [INFO]: Created table: items
+2023-09-12 22:59:10 [INFO]: Created table: categories
 NoneType: None
-2023-09-18 01:00:17 [INFO]: Created table: categories
+2023-09-12 22:59:10 [INFO]: Created table: price_history
 NoneType: None
-2023-09-18 01:00:17 [INFO]: Created table: price_history
+2023-09-12 22:59:10 [INFO]: Created table: reports
 NoneType: None
-2023-09-18 01:00:18 [INFO]: Created table: reports
+2023-09-12 22:59:10 [INFO]: Created table: breakdowns
 NoneType: None
-2023-09-18 01:00:18 [INFO]: Created table: breakdowns
+2023-09-12 22:59:10 [INFO]: Created database and tables.
 NoneType: None
-2023-09-18 01:00:18 [INFO]: Created folder, database, and tables.
+2023-09-12 22:59:11 [INFO]: Inserted data into table: paid
 NoneType: None
-2023-09-18 01:00:18 [INFO]: Inserted data into table: paid
+2023-09-12 22:59:11 [INFO]: Inserted data into table: dev
 NoneType: None
-2023-09-18 01:00:18 [INFO]: Inserted data into table: dev
+2023-09-12 22:59:11 [INFO]: Inserted data into table: positions
 NoneType: None
-2023-09-18 01:00:18 [INFO]: Inserted data into table: positions
+2023-09-12 22:59:11 [INFO]: Inserted data into table: positions
 NoneType: None
-2023-09-18 01:00:18 [INFO]: Inserted data into table: positions
+2023-09-12 22:59:11 [INFO]: Inserted data into table: positions
 NoneType: None
-2023-09-18 01:00:18 [INFO]: Inserted data into table: positions
+2023-09-12 22:59:11 [INFO]: Inserted data into table: employees
 NoneType: None
-2023-09-18 01:00:18 [INFO]: Inserted data into table: employees
+2023-09-12 22:59:11 [INFO]: Inserted initial data.
 NoneType: None
-2023-09-18 01:00:19 [INFO]: Inserted data into table: categories
+2023-09-13 00:15:42 [INFO]: Created table: paid
 NoneType: None
-2023-09-18 01:00:19 [INFO]: Inserted data into table: items
+2023-09-13 00:15:42 [INFO]: Created table: dev
 NoneType: None
-2023-09-18 01:00:19 [INFO]: Inserted initial data.
+2023-09-13 00:15:42 [INFO]: Created table: positions
 NoneType: None
-2023-09-18 01:00:27 [INFO]: Successful Login Attempt: Administrator
-2023-09-18 01:00:50 [INFO]: Exit program.
-2023-09-18 01:00:50 [CRITICAL]: Program closed
+2023-09-13 00:15:43 [INFO]: Created table: employees
+NoneType: None
+2023-09-13 00:15:43 [INFO]: Created table: orders
+NoneType: None
+2023-09-13 00:15:43 [INFO]: Created table: order_details
+NoneType: None
+2023-09-13 00:15:43 [INFO]: Created table: login_history
+NoneType: None
+2023-09-13 00:15:43 [INFO]: Created table: items
+NoneType: None
+2023-09-13 00:15:43 [INFO]: Created table: categories
+NoneType: None
+2023-09-13 00:15:43 [INFO]: Created table: price_history
+NoneType: None
+2023-09-13 00:15:43 [INFO]: Created table: reports
+NoneType: None
+2023-09-13 00:15:44 [INFO]: Created table: breakdowns
+NoneType: None
+2023-09-13 00:15:44 [INFO]: Created database and tables.
+NoneType: None
+2023-09-13 00:15:44 [INFO]: Inserted data into table: paid
+NoneType: None
+2023-09-13 00:15:44 [INFO]: Inserted data into table: dev
+NoneType: None
+2023-09-13 00:15:44 [INFO]: Inserted data into table: positions
+NoneType: None
+2023-09-13 00:15:44 [INFO]: Inserted data into table: positions
+NoneType: None
+2023-09-13 00:15:44 [INFO]: Inserted data into table: positions
+NoneType: None
+2023-09-13 00:15:44 [INFO]: Inserted data into table: employees
+NoneType: None
+2023-09-13 00:15:44 [INFO]: Inserted initial data.
+NoneType: None
+2023-09-13 00:15:52 [INFO]: Login Attempt: missing username and password.
+2023-09-13 00:21:56 [INFO]: Successful Login Attempt: Administrator
+2023-09-13 00:21:59 [INFO]: Login Attempt: missing username and password.
+2023-09-13 01:35:48 [CRITICAL]: Program closed
+2023-09-13 01:36:24 [CRITICAL]: Program closed
+2023-09-13 01:36:35 [INFO]: Successful Login Attempt: Administrator
+2023-09-13 01:37:11 [INFO]: Successful Login Attempt: Administrator
+2023-09-13 01:57:11 [CRITICAL]: Program closed
+2023-09-13 01:57:22 [CRITICAL]: Program closed
+2023-09-13 01:58:07 [CRITICAL]: Program closed
+2023-09-13 02:03:30 [CRITICAL]: Program closed
+2023-09-13 04:06:21 [INFO]: Exit program.
+2023-09-13 04:06:21 [CRITICAL]: Program closed
+2023-09-13 16:53:46 [INFO]: Successful Login Attempt: Administrator
+2023-09-13 17:07:33 [INFO]: Successful Login Attempt: Administrator
+2023-09-13 17:09:00 [CRITICAL]: Program closed
+2023-09-13 17:09:22 [CRITICAL]: Program closed
+2023-09-13 17:10:21 [CRITICAL]: Program closed
+2023-09-13 17:10:42 [CRITICAL]: Program closed
+2023-09-13 17:11:45 [CRITICAL]: Program closed
+2023-09-14 01:14:11 [CRITICAL]: Program closed
+2023-09-14 01:14:56 [CRITICAL]: Program closed
+2023-09-14 01:20:22 [CRITICAL]: Program closed
+2023-09-14 02:54:38 [INFO]: Successful Login Attempt: Administrator
+2023-09-14 02:56:15 [INFO]: Successful Login Attempt: Administrator
+2023-09-14 02:57:43 [INFO]: Successful Login Attempt: Administrator
+2023-09-14 02:59:41 [INFO]: Successful Login Attempt: Administrator
+2023-09-14 03:00:15 [INFO]: Successful Login Attempt: Administrator
+2023-09-14 03:00:53 [INFO]: Successful Login Attempt: Administrator
+2023-09-14 03:01:47 [INFO]: Successful Login Attempt: Administrator
+2023-09-14 03:03:28 [INFO]: Successful Login Attempt: Administrator
+2023-09-14 03:04:29 [INFO]: Successful Login Attempt: Administrator
+2023-09-14 03:04:59 [INFO]: Successful Login Attempt: Administrator
+2023-09-14 23:59:27 [CRITICAL]: Program closed
+2023-09-15 00:00:17 [CRITICAL]: Program closed
+2023-09-15 00:00:27 [CRITICAL]: Program closed
+2023-09-15 00:01:01 [CRITICAL]: Program closed
+2023-09-15 00:17:00 [INFO]: Created table: paid
+NoneType: None
+2023-09-15 00:17:00 [INFO]: Created table: dev
+NoneType: None
+2023-09-15 00:17:00 [INFO]: Created table: positions
+NoneType: None
+2023-09-15 00:17:00 [INFO]: Created table: employees
+NoneType: None
+2023-09-15 00:17:01 [INFO]: Created table: orders
+NoneType: None
+2023-09-15 00:17:01 [INFO]: Created table: order_details
+NoneType: None
+2023-09-15 00:17:01 [INFO]: Created table: login_history
+NoneType: None
+2023-09-15 00:17:01 [INFO]: Created table: items
+NoneType: None
+2023-09-15 00:17:01 [INFO]: Created table: categories
+NoneType: None
+2023-09-15 00:17:01 [INFO]: Created table: price_history
+NoneType: None
+2023-09-15 00:17:02 [INFO]: Created table: reports
+NoneType: None
+2023-09-15 00:17:02 [INFO]: Created table: breakdowns
+NoneType: None
+2023-09-15 00:17:02 [INFO]: Created database and tables.
+NoneType: None
+2023-09-15 00:17:02 [INFO]: Inserted data into table: paid
+NoneType: None
+2023-09-15 00:17:02 [INFO]: Inserted data into table: dev
+NoneType: None
+2023-09-15 00:17:02 [INFO]: Inserted data into table: positions
+NoneType: None
+2023-09-15 00:17:03 [INFO]: Inserted data into table: positions
+NoneType: None
+2023-09-15 00:17:03 [INFO]: Inserted data into table: positions
+NoneType: None
+2023-09-15 00:17:03 [INFO]: Inserted data into table: employees
+NoneType: None
+2023-09-15 00:17:03 [ERROR]: Error inserting data into table: categories. Error: table categories has no column named category_name
+Traceback (most recent call last):
+  File "C:\Users\jaspe\Documents\Python\POS-System\index.py", line 179, in handleInsert
+    c.execute(f"INSERT INTO {name} ({details}) VALUES ({values})")
+sqlite3.OperationalError: table categories has no column named category_name
+2023-09-15 00:17:03 [INFO]: Inserted data into table: items
+NoneType: None
+2023-09-15 00:17:03 [INFO]: Inserted initial data.
+NoneType: None
+2023-09-15 00:18:39 [INFO]: Created table: paid
+NoneType: None
+2023-09-15 00:18:39 [INFO]: Created table: dev
+NoneType: None
+2023-09-15 00:18:39 [INFO]: Created table: positions
+NoneType: None
+2023-09-15 00:18:39 [INFO]: Created table: employees
+NoneType: None
+2023-09-15 00:18:39 [INFO]: Created table: orders
+NoneType: None
+2023-09-15 00:18:40 [INFO]: Created table: order_details
+NoneType: None
+2023-09-15 00:18:40 [INFO]: Created table: login_history
+NoneType: None
+2023-09-15 00:18:40 [INFO]: Created table: items
+NoneType: None
+2023-09-15 00:18:40 [INFO]: Created table: categories
+NoneType: None
+2023-09-15 00:18:40 [INFO]: Created table: price_history
+NoneType: None
+2023-09-15 00:18:40 [INFO]: Created table: reports
+NoneType: None
+2023-09-15 00:18:40 [INFO]: Created table: breakdowns
+NoneType: None
+2023-09-15 00:18:40 [INFO]: Created database and tables.
+NoneType: None
+2023-09-15 00:18:40 [INFO]: Inserted data into table: paid
+NoneType: None
+2023-09-15 00:18:41 [INFO]: Inserted data into table: dev
+NoneType: None
+2023-09-15 00:18:41 [INFO]: Inserted data into table: positions
+NoneType: None
+2023-09-15 00:18:41 [INFO]: Inserted data into table: positions
+NoneType: None
+2023-09-15 00:18:41 [INFO]: Inserted data into table: positions
+NoneType: None
+2023-09-15 00:18:41 [INFO]: Inserted data into table: employees
+NoneType: None
+2023-09-15 00:18:41 [INFO]: Inserted data into table: categories
+NoneType: None
+2023-09-15 00:18:41 [INFO]: Inserted data into table: items
+NoneType: None
+2023-09-15 00:18:41 [INFO]: Inserted initial data.
+NoneType: None
+2023-09-15 00:44:47 [CRITICAL]: Program closed
+2023-09-15 00:45:15 [CRITICAL]: Program closed
+2023-09-15 00:45:43 [INFO]: Exit program.
+2023-09-15 00:45:43 [CRITICAL]: Program closed
+2023-09-15 00:50:02 [INFO]: Exit program.
+2023-09-15 00:50:02 [CRITICAL]: Program closed
+2023-09-15 02:34:14 [INFO]: Login Attempt: missing username and password.
+2023-09-15 02:34:15 [INFO]: Exit program.
+2023-09-15 02:34:15 [CRITICAL]: Program closed
+2023-09-15 04:12:15 [INFO]: Exit program.
+2023-09-15 04:12:15 [CRITICAL]: Program closed
+2023-09-15 10:42:42 [CRITICAL]: Program closed
+2023-09-15 10:44:52 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 10:45:14 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 10:46:20 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 10:46:38 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 10:47:16 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 10:49:00 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 10:50:06 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 10:50:38 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 10:56:59 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 10:57:59 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 10:59:27 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 11:00:35 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 11:01:44 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 11:03:19 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 11:05:11 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 11:09:32 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 11:09:55 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 11:11:57 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 11:13:28 [INFO]: Successful Login Attempt: Administrator
+2023-09-15 11:15:07 [INFO]: Exit program.
+2023-09-15 11:15:07 [CRITICAL]: Program closed
+2023-09-16 16:28:22 [INFO]: Exit program.
+2023-09-16 16:28:22 [CRITICAL]: Program closed
+2023-09-16 16:29:22 [INFO]: Successful Login Attempt: Administrator
+2023-09-16 16:30:56 [CRITICAL]: Program closed
+2023-09-16 16:31:20 [INFO]: Successful Login Attempt: Administrator
+2023-09-16 17:12:32 [INFO]: Successful Login Attempt: Administrator
+2023-09-16 17:13:48 [INFO]: Successful Login Attempt: Administrator
+2023-09-16 17:14:21 [INFO]: Successful Login Attempt: Administrator
+2023-09-16 17:14:24 [INFO]: Login Attempt: missing username and password.
+2023-09-16 17:14:25 [INFO]: Exit program.
+2023-09-16 17:14:25 [CRITICAL]: Program closed
+2023-09-16 17:28:51 [INFO]: Successful Login Attempt: Administrator
+2023-09-16 17:29:11 [INFO]: Successful Login Attempt: Administrator
+2023-09-16 17:30:15 [INFO]: Successful Login Attempt: Administrator
+2023-09-16 17:31:12 [CRITICAL]: Program closed
+2023-09-16 17:42:59 [CRITICAL]: Program closed
+2023-09-16 18:08:11 [INFO]: Successful Login Attempt: Administrator
+2023-09-16 18:11:49 [INFO]: Successful Login Attempt: Administrator
+2023-09-16 18:12:17 [INFO]: Successful Login Attempt: Administrator
+2023-09-16 18:15:31 [INFO]: Successful Login Attempt: Administrator
+2023-09-16 18:15:48 [INFO]: Successful Login Attempt: Administrator
+2023-09-16 18:16:22 [INFO]: Successful Login Attempt: Administrator
+2023-09-16 18:46:40 [INFO]: Successful Login Attempt: Administrator
+2023-09-16 18:47:25 [INFO]: Successful Login Attempt: Administrator
+2023-09-16 18:47:56 [INFO]: Successful Login Attempt: Administrator
+2023-09-16 19:30:22 [CRITICAL]: Program closed
+2023-09-16 19:58:24 [INFO]: Exit program.
+2023-09-16 19:58:24 [CRITICAL]: Program closed
+2023-09-16 20:18:14 [CRITICAL]: Program closed
+2023-09-16 22:36:34 [CRITICAL]: Program closed
+2023-09-17 00:32:23 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:33:08 [CRITICAL]: Program closed
+2023-09-17 00:33:18 [CRITICAL]: Program closed
+2023-09-17 00:33:56 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:34:34 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:39:04 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:39:36 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:39:53 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:40:29 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:40:58 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:41:15 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:41:33 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:42:45 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:43:48 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:44:27 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:44:44 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:45:08 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:45:22 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:45:35 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:45:50 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:48:58 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:49:05 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:49:41 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:49:57 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:51:54 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:52:31 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:54:16 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:56:23 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:58:59 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:59:12 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:59:30 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 00:59:53 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:00:46 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:07:21 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:07:40 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:08:25 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:09:18 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:09:40 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:14:03 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:15:18 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:15:53 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:16:10 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:16:49 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:17:24 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:18:12 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:23:29 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:24:06 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:27:00 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:31:24 [CRITICAL]: Program closed
+2023-09-17 01:31:44 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:32:21 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:33:11 [CRITICAL]: Program closed
+2023-09-17 01:33:55 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:34:52 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:36:14 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:37:30 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:41:18 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:41:39 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:42:06 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:42:46 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:44:36 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:45:40 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:46:36 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:50:50 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 01:56:44 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 03:00:09 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 03:00:50 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 18:57:32 [CRITICAL]: Program closed
+2023-09-17 18:58:01 [CRITICAL]: Program closed
+2023-09-17 18:58:36 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 18:59:32 [INFO]: Exit program.
+2023-09-17 18:59:32 [CRITICAL]: Program closed
+2023-09-17 18:59:47 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 19:00:08 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 19:01:13 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 19:01:33 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 19:01:44 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 19:15:37 [CRITICAL]: Program closed
+2023-09-17 19:15:53 [CRITICAL]: Program closed
+2023-09-17 19:16:03 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 19:16:43 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 19:17:37 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 19:24:34 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 19:25:14 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 21:06:52 [CRITICAL]: Program closed
+2023-09-17 21:38:38 [CRITICAL]: Program closed
+2023-09-17 21:40:17 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 21:42:08 [CRITICAL]: Program closed
+2023-09-17 21:45:58 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 21:47:08 [INFO]: Successful Login Attempt: Administrator
+2023-09-17 22:02:23 [CRITICAL]: Program closed
+2023-09-17 22:03:29 [CRITICAL]: Program closed
+2023-09-17 22:04:47 [INFO]: Exit program.
+2023-09-17 22:04:47 [CRITICAL]: Program closed
+2023-09-18 00:39:30 [INFO]: Successful Login Attempt: Administrator
+2023-09-18 00:40:28 [INFO]: Successful Login Attempt: Administrator
+2023-09-18 00:48:29 [INFO]: Created table: paid
+NoneType: None
+2023-09-18 00:48:29 [INFO]: Created table: dev
+NoneType: None
+2023-09-18 00:48:29 [INFO]: Created table: positions
+NoneType: None
+2023-09-18 00:48:29 [INFO]: Created table: employees
+NoneType: None
+2023-09-18 00:48:29 [INFO]: Created table: orders
+NoneType: None
+2023-09-18 00:48:29 [INFO]: Created table: order_details
+NoneType: None
+2023-09-18 00:48:29 [INFO]: Created table: login_history
+NoneType: None
+2023-09-18 00:48:30 [INFO]: Created table: items
+NoneType: None
+2023-09-18 00:48:30 [INFO]: Created table: categories
+NoneType: None
+2023-09-18 00:48:30 [INFO]: Created table: price_history
+NoneType: None
+2023-09-18 00:48:30 [INFO]: Created table: reports
+NoneType: None
+2023-09-18 00:48:30 [INFO]: Created table: breakdowns
+NoneType: None
+2023-09-18 00:48:30 [INFO]: Created database and tables.
+NoneType: None
+2023-09-18 00:48:30 [INFO]: Inserted data into table: paid
+NoneType: None
+2023-09-18 00:48:30 [INFO]: Inserted data into table: dev
+NoneType: None
+2023-09-18 00:48:30 [INFO]: Inserted data into table: positions
+NoneType: None
+2023-09-18 00:48:31 [INFO]: Inserted data into table: positions
+NoneType: None
+2023-09-18 00:48:31 [INFO]: Inserted data into table: positions
+NoneType: None
+2023-09-18 00:48:31 [INFO]: Inserted data into table: employees
+NoneType: None
+2023-09-18 00:48:31 [INFO]: Inserted data into table: categories
+NoneType: None
+2023-09-18 00:48:31 [INFO]: Inserted data into table: items
+NoneType: None
+2023-09-18 00:48:31 [INFO]: Inserted initial data.
+NoneType: None
+2023-09-18 00:49:03 [INFO]: Successful Login Attempt: Administrator
